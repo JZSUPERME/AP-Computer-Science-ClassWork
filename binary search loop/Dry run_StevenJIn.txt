@@ -1,0 +1,23 @@
+Dry run Steven Jin
+
+
+1, 2, 4, 6 , 7 , 23, 24, 25, 27, 32, 39, 43, 47, 49, 61, 
+
+Search for 39
+
+low          median          high
+  0             7             14
+  7            10             14
+
+10
+
+Search for 20
+
+low          median          high
+  0             7             14
+  0             3              7
+  3	        5	       7
+  3             4              5
+  4             4              5
+
+-1
